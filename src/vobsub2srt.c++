@@ -30,6 +30,7 @@
 #include <string>
 #include <cstdio>
 #include <vector>
+#include <climits>
 using namespace std;
 
 #include "langcodes.h++"
